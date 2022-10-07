@@ -1,0 +1,81 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Project siakad
+</name>
+</assembly>
+<members>
+<member name="T:Project_siakad.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Project_siakad.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Project_siakad.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Project_siakad.My.Resources.Resources.kisspng_computer_icons_clip_art_login_button_5ac8e1453e5f33_3317763515231143092555">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project_siakad.My.Resources.Resources.kisspng_computer_icons_clip_art_login_button_5ac8e1453e5f331">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project_siakad.My.Resources.Resources.kisspng_information_technology_consulting_technical_suppor_information_technology_5b0c00a66dafd6_4928356115275132544493">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project_siakad.My.Resources.Resources.kisspng_information_technology_zyxel_vector_information_technology_5a93e94fe7d288_4580855315196429599496">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project_siakad.My.Resources.Resources.kisspng_logo_font_calligraphy_brand_illustration_openclipart_5c4c34a570d9e5_0224913615484980854623">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project_siakad.My.Resources.Resources.kisspng_student_campus_education_psychology_institute_pte_listening_select_missing_words_section_coachi_5d2d84bebbd363_3639719715632641907693">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project_siakad.My.Resources.Resources.kisspng_student_university_academic_degree_education_colle_university_teachers_5a7c0a486ac109_1127829715180785364373">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project_siakad.My.Resources.Resources.kisspng_student_university_academic_degree_education_colle_university_teachers_5a7c0a486ac1091">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project_siakad.My.Resources.Resources.kisspng_university_of_oxford_logo_oxford_university_innova_partners_big_innovation_centre_5b6d65020f2310_859427361533895938062">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project_siakad.My.Resources.Resources.kisspng_wallpaper_blue_triangular_border_5a94b51270f6e5_8959195915196951224627">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project_siakad.My.Resources.Resources.pngfind_com_hogwarts_express_png_4786166">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
